@@ -1,6 +1,7 @@
 # React Food Cart Web App Using Node
 
 ![alt-text](https://github.com/ShahzaibAyyub/React-Food-Cart-WebApplication/blob/master/ReactFoodApp.gif)
+
 React Food web app that fetches menu from node and has add to cart functionality with checkout page. Menu changes Daily and it also has a countdown for menu change using moment.js
 
 ### Prerequisites
